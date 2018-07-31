@@ -1,2 +1,1 @@
-# Exercicios_simples_em_C
-(PT_BR) Programas simples para iniciantes.
+# Exercicios bem simples para iniciantes que fiz ao aprender C.
