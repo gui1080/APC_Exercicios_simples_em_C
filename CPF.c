@@ -1,4 +1,5 @@
 #include <stdio.h>
+https://codeshare.io/G8YdkA
 int main () {
     int CPF[11];
     int n1, n2, i, j, aux1, aux2;
